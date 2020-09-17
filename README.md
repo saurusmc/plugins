@@ -1,4 +1,4 @@
-# Saurus Plugins Repository
+# Saurus Plugins
 
 ## Getting started
 
