@@ -1,10 +1,10 @@
 ---
 name: Plugin publication request
 about: Publish your plugin
-title: ''
-labels: ''
+title: Publish
+labels: request
 assignees: ''
 
 ---
 
-
+Enter your repository URL
